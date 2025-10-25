@@ -1,4 +1,4 @@
-🛰️ Projet : Routage Statique — Cisco Packet Tracer
+Projet : Routage Statique — Cisco Packet Tracer
 
 Ce projet illustre le fonctionnement du routage statique dans un réseau composé de trois routeurs (R1, R2, R3) connectés en topologie triangulaire, chacun relié à un PC (PC1, PC2, PC3).
 
